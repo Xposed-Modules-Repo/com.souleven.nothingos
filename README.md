@@ -9,12 +9,16 @@
 
 By leveraging the modern Xposed framework, this module injects deep system-level tweaks allowing you to tailor your Nothing device exactly to your liking.
 
+By leveraging the modern Xposed framework, this module injects deep system-level tweaks allowing you to tailor your Nothing device exactly to your liking.
+
+> **🌟 Now Supports Nothing OS 5.0**
+
 
 ## 🌐 [Source Code & Support](https://github.com/RevealedSoulEven/NothingTweaks)
 <p align="center">
   <a href="https://github.com/RevealedSoulEven/NothingTweaks/releases/latest">
     <img src="https://img.shields.io/github/v/release/RevealedSoulEven/NothingTweaks?style=for-the-badge&label=Download&color=795695&logo=android&logoColor=000000"
-         alt="Download V2.7" />
+         alt="Download V3.4" />
   </a>
 </p>
 
